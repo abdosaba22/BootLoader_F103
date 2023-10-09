@@ -1,0 +1,11 @@
+../Src/TFT_program.c:19:13:HTFT_voidDrawPixel	24	static
+../Src/TFT_program.c:37:13:DrawTheColor	16	static
+../Src/TFT_program.c:45:13:HTFT_voidBounders	24	static
+../Src/TFT_program.c:69:13:voidWriteCommand	24	static
+../Src/TFT_program.c:80:13:voidWriteData	24	static
+../Src/TFT_program.c:92:6:HTFT_voidInitialize	8	static
+../Src/TFT_program.c:121:6:HTFT_voidDisplayImage	24	static
+../Src/TFT_program.c:145:6:HTFT_voidFillColor	24	static
+../Src/TFT_program.c:169:6:HTFT_voidDrawRect	32	static
+../Src/TFT_program.c:190:6:HTFT_voidDrawChar	32	static
+../Src/TFT_program.c:239:6:HTFT_voidDrawString	40	static

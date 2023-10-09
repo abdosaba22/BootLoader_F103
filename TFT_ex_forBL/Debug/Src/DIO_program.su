@@ -1,0 +1,3 @@
+../Src/DIO_program.c:9:6:MGPIO_VidSetPinDirection	16	static
+../Src/DIO_program.c:67:6:MGPIO_VidSetPinValue	16	static
+../Src/DIO_program.c:105:6:MGPIO_u8GetPinValue	24	static

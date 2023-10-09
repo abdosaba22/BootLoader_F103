@@ -1,0 +1,2 @@
+../Src/MSPI_program.c:11:6:MSPI1_voidInit	4	static
+../Src/MSPI_program.c:16:6:MSPI1_voidSendReceiveSynch	16	static
