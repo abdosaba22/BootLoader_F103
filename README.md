@@ -1,7 +1,8 @@
 # BootLoader_F103
 This Repo includes Bootloader App For STM32F103C8T6 and App that Display an image on TFT
 we use the Bootloader to Flash our TFT project from page 4 start address 0x08001000
-صث  4
+
+
 # Mini Project ITI Arm Course: 
 1- STM32F103C8T6.
 
