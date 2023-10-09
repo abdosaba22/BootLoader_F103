@@ -10,15 +10,17 @@ we use the Bootloader to Flash our TFT project from page 4 start address 0x08001
 
 3- STK driver.
 
-4- UART driver.
+4- Parser driver.
 
-5- DIO driver.
+5- UART driver.
 
-6- RCC driver.
+6- DIO driver.
 
-7- TFT driver.
+7- RCC driver.
 
-8- SPI driver.
+8- TFT driver.
+
+9- SPI driver.
 
 # Used Tools:
 
